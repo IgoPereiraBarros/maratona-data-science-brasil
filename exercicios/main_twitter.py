@@ -1,5 +1,4 @@
 from twitter import TwitterClient
-from requests_oauthlib import OAuth1Session
 import pprint
 
 CONSUMER_KEY = 'your key'
